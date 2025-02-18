@@ -1,0 +1,114 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+
+body {
+
+    background: url(/assets/background_for_a_modern_dollar_and_e_2.jpg ) no-repeat;
+    background-size: cover;
+    align-items: auto;
+}
+
+
+.logo {
+    width: 200px;
+    margin: 0px auto;
+    display: block;
+
+}
+
+main {
+    width: 375px;
+    border-radius: 20px;
+    background: url(/assets/background_for_a_modern_dollar_and_3.jpg) 20%;
+    margin: 0 auto;
+    padding: 44px 24px 23px ;
+
+
+}
+
+label {
+    color: blue;
+    background-color: transparent;
+    font-size: 14px;
+    font-weight: 400;
+
+}
+
+select {
+    border-radius: 4px;
+    border: 1px solid #BBB;
+    background: #FFF;
+    height: 48px;
+    width: 100%;
+    margin-bottom: 24px;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+input {
+    border-radius: 4px;
+    border: 1px solid #BBB;
+    background: #FFF;
+    height: 48px;
+    width: 100%;
+    margin-bottom: 24px;
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 18px;
+
+}
+
+button {
+    height: 48px;
+    width: 100%;
+    border-radius: 5px;
+    background-color: #475520;
+    border: none;
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #687e2d;
+    transition: 0.3s;
+
+
+}
+
+section {
+    border-radius: 20px;
+    background: #D8BB93;
+    width: 327px;
+    margin-top: 24px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.caixa-box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    
+}
+
+
+
+
+.arrow{
+
+    width: 35px;
+    height: 30px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+
+}
